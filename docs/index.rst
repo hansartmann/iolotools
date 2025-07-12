@@ -3,6 +3,12 @@ Install or Reinstall, Activate System Mechanic Ultimate Defense | System Mechani
 
 Have you recently made a purchase of Iolo's premium PC performance suite and are wondering how to **Install System Mechanic Ultimate Defense**, **Reinstall System Mechanic Ultimate Defense**, or activate the **System Mechanic Download Bought Already**? Whether you’re setting up a new device, recovering from a crash, or migrating your system tools, this guide will walk you through everything you need to know—from download to full activation.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO</a>
+   </div>
+
 The good news is that the process to **Install System Mechanic Ultimate Defense** is quick, user-friendly, and doesn’t require technical expertise. If you’ve already paid for the product, you’re halfway there. Now let’s make sure your device is optimized, protected, and performing at its best.
 
 Introduction: Why System Mechanic Ultimate Defense?
